@@ -25,3 +25,11 @@ You should not use BMI as a measure if you're pregnant. Get advice from your mid
 
 ## Some UML_Models that we creat in this app:
 ![Usecasediagram1](https://user-images.githubusercontent.com/71356170/221368418-95d505fc-fd34-438c-bdd8-5eaccaafd860.png)
+
+### In this usecase we define the some functions and the inputs such as:
+### user :
+- input weight, height, gender, etc ...
+### admin (couch or doctor):
+- add systems, workouts,track patients, etc ..
+
+
