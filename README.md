@@ -40,6 +40,6 @@
 
 ## Finaly:
 ### Triple S:
-![WhatsApp Image 2023-02-27 at 13 40 09](https://user-images.githubusercontent.com/71356170/221681350-e335c1d1-6442-414d-a2cb-88e031787b63.jpeg)
+![IMG-20230303-WA0003](https://user-images.githubusercontent.com/71356170/229355717-6b9b5e96-8ea3-4958-8a4e-e8ffda6f21c3.jpg)
 
 ### Youtube : link
