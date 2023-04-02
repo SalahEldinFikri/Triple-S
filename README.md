@@ -1,6 +1,5 @@
 # TripleS
-![لهعنتم](https://user-images.githubusercontent.com/71356170/229362676-e660ea37-c868-451b-929f-89bfa3332a5d.png)
-
+![Screenshot 2023-04-02 173002](https://user-images.githubusercontent.com/71356170/229362919-b36f1f94-57da-46ec-872c-629b71d79ffa.png)
 
 #### Our project represent a healthcare app, That you use it to calculate your BMI (Body Math Index) to know in which category you are.
 ## And what's BMI ?
