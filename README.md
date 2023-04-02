@@ -42,6 +42,6 @@
 ### Triple S:
 ![IMG-20230303-WA0003](https://user-images.githubusercontent.com/71356170/229355717-6b9b5e96-8ea3-4958-8a4e-e8ffda6f21c3.jpg)
 
-### Youtube : link
+### Youtube: link
 
-### For more explantion about the code and the app you can see this document : 
+### For more explanation about the code and the app you can see the documentation above.
