@@ -1,4 +1,6 @@
 # TripleS
+![IMG-20230303-WA0003](https://user-images.githubusercontent.com/71356170/229355717-6b9b5e96-8ea3-4958-8a4e-e8ffda6f21c3.jpg)
+
 #### Our project represent a healthcare app, That you use it to calculate your BMI (Body Math Index) to know in which category you are.
 ## And what's BMI ?
 #### The body mass index (BMI) is a measure that uses your height and weight to work out if your weight is healthy. The BMI calculation divides an adult's weight in kilograms by their height in metres squared. For example, A BMI of 25 means 25kg/m2.
@@ -38,10 +40,7 @@
 
 #### There is a lot of UML models i will leave it in folder with the app if anyone want to see it.
 
-## Finaly:
-### Triple S:
-![IMG-20230303-WA0003](https://user-images.githubusercontent.com/71356170/229355717-6b9b5e96-8ea3-4958-8a4e-e8ffda6f21c3.jpg)
+### For more explanation about the code and the app you can see the documentation above or the youtube video.
 
 ### Youtube: link
 
-### For more explanation about the code and the app you can see the documentation above.
