@@ -20,7 +20,7 @@
 #### - between 25 and 29.9 – you're in the overweight range.
 #### - 30 or over – you're in the obese range.
 
-####  So here in our app, We will keep monitor your weight to keep you healthy by giving you some systems of foods, And make you do some workouts, And you have the choice to track your progress with a doctor.
+####  So here in our app, We will keep monitor your weight to keep you healthy by giving you some systems of foods, And make you do some workouts, And you have the choice to track your progress with a doctor or not.
 
 ## Some UML_Models that we creat in this app:
 ![Usecasediagram1](https://user-images.githubusercontent.com/71356170/221368418-95d505fc-fd34-438c-bdd8-5eaccaafd860.png)
