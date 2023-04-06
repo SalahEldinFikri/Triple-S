@@ -42,7 +42,7 @@
 
 #### There is a lot of UML models i will leave it in folder with the app if anyone want to see it.
 
-### For more explanation about the code and the app you can see the documentation above or the youtube video.
+### For more explanation about the code and the app you can see the youtube video.
 
 ### Youtube: link
 
