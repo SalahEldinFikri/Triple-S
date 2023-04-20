@@ -44,7 +44,7 @@
 
 ### For more explanation about the code and the app you can see the youtube video.
 
-### Youtube: link
+### Youtube: [link](https://youtu.be/HkALlfD13IQ)
 
 ## Note:
 ### When you download the project and going to start it make sure to rename this folder to (build) instead of (build0)
